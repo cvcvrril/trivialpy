@@ -1,9 +1,9 @@
 # TrivialPy
 
-![alt text](./trivialpy.png)
+![alt text](https://raw.githubusercontent.com/cvcvrril/trivialpy/refs/heads/main/trivialpy.png)
 
 **TrivialPy** es un juego de preguntas y respuestas desarrollado en Python; vamos, un Trivial Pursuit de toda la vida pero hecho en Python.<br>
-Versión: 0.0.5
+Versión: 0.0.8
 
 ## Índice
 * [Reglas](#reglas)
@@ -57,10 +57,10 @@ El jugador debe de elegir de entre una de las cuatro opciones; A, B, C, D.
 
 ## Instalación
 
-El proyecto se encuentra en la plataforma [TestPiPy](https://test.pypi.org/project/TrivialPy/). <br>
+El proyecto se encuentra en la plataforma [PiPy](https://pypi.org/project/TrivialPy/). <br>
 Escriba lo siguiente en su entorno Python:
 ```
-pip install -i https://test.pypi.org/simple/ TrivialPy
+pip install TrivialPy
 ```
 
 ## Estructura
